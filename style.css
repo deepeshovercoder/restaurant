@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Tangerine:wght@700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fine{
+    color: maroon;
+    font-family: 'Tangerine', cursive;
+    font-size: 100px;
+    margin-left: 550px;
+    text-decoration: none;
+}
+.image{
+    height: 260px;
+    width: 390px;
+    float: right;
+    margin-right: 10px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    margin-top: -800px;
+}
+.btn-group-vertical{
+    font-family: 'Tangerine', cursive;   
+
+}
+.btn-group-vertical:hover{
+    color: maroon;
+}
+h5{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.form-group input {
+    text-align: center;
+    width: 400px;
+    padding: 5px;
+    border: 2px solid red;
+    margin: 6px auto;
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.submit {
+    width: 400px;
+    text-align: center;
+    margin: 6px auto;
+} 
+.image2{
+    height: 400px;
+    width: 560px;
+    float: right;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    margin-top: -300px;
+    margin-bottom: 20px;
+}      
